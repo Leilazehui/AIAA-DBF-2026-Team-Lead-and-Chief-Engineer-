@@ -1,8 +1,4 @@
-# AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-
-
-## Overview:
-This repository introduces my roles, contributions, design methodology, testing and results of AIAA DBF 2026 competition which also served as my final year project. In AIAA DBF 2026, we designed an aircraft that can fly in an average velocity of 32m/s, carrying 3 plastic ducks as passengers and 1 hockey puck as cargo in mission 2, and deploying a banner with a length of 4 meter and as aspect ratio of 4.95. We ranked 28th in report round, and 32nd out of 98 teams from universities worldwide in the flyoff (actual flight mission contest) in Textron Aviation Employee's Flying Club, Wichita, Kansas, USA from 16th to 19th April 2026. 
-
+# AIAA-DBF-2026-Team-Lead-and-Chief-Engineer
 ## My roles:
 ### Team Leader:
 - Designed systematic framework for the team to monitor technical progress
