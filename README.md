@@ -21,7 +21,7 @@ I'm not the loudest person in the room. But I'm the one who:
 
 ---
 
-## What You'll Find in This Repo
+## What You'll Find in This Project
 
 | Section | What It Is | Why You Might Care |
 |---------|-----------|-------------------|
