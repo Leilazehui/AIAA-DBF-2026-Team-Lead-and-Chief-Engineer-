@@ -25,7 +25,7 @@ I'm not the loudest person in the room. But I'm the one who:
 
 | Section | What It Is | Why You Might Care |
 |---------|-----------|-------------------|
-| [Technical Design] | Wing specs, CFD analysis(./CFD_Analysis.md), MDO framework, banner mechanism design | If you want to see my engineering depth |
+| **Technical Design** | Wing specs, [CFD analysis](./CFD_Analysis.md), MDO framework, banner mechanism design | If you want to see my engineering depth |
 | **[Lessons Learned](./docs/02_Lessons_Learned.md)** | **My biggest failures + the systems I built to never repeat them** | **This is the most valuable part** |
 | [Management Tools](./docs/03_Management/) | Task allocation matrix, risk heatmap, meeting minutes template | If you want to see how I lead |
 | [Sponsorship & Branding](./docs/04_Sponsorship/) | How I raised 109,000+ HKD, designed team jacket, ran 30+ workshops | If you care about resourcefulness |
