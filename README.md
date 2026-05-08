@@ -1,7 +1,7 @@
 # AIAA DBF 2026: What I Learned as Team Lead & Chief Engineer
 
 ## Overview:
-I led a team of 6 to design, build, and fly an aircraft that carried 3 ducks and 1 hockey puck, deployed a 4-meter banner, and competed against 97 universities worldwide, ranked 28th in report round and 32nd at the fly-off. We are a group of more than 30 people where we focus on aircraft design, knowledge sharing, building and flying. 
+I led a team of 6 to design, build, and fly an aircraft that carried 3 ducks and 1 hockey puck, deployed a 4-meter banner, and competed against 97 universities worldwide, ranked 28th in report round and 32nd out of 98 teams from universities worldwide in the flyoff (actual flight mission contest) in Textron Aviation Employee's Flying Club, Wichita, Kansas, USA from 16th to 19th April 2026. . We are a group of more than 30 people where we focus on aircraft design, knowledge sharing, building and flying. 
 
 Here are what I learned when things went wrong and right in this 9-month project.
 
@@ -26,9 +26,9 @@ I'm not the loudest person in the room. But I'm the one who:
 | Section | What It Is | Why You Might Care |
 |---------|-----------|-------------------|
 | **Technical Design** | Wing specs, [CFD analysis](./CFD_Analysis.md), MDO framework, banner mechanism design | If you want to see my engineering depth |
-| **[Lessons Learned](./docs/02_Lessons_Learned.md)** | **My biggest failures + the systems I built to never repeat them** | **This is the most valuable part** |
-| [Management Tools](./docs/03_Management/) | Task allocation matrix, risk heatmap, meeting minutes template | If you want to see how I lead |
-| [Sponsorship & Branding](./docs/04_Sponsorship/) | How I raised 109,000+ HKD, designed team jacket, ran 30+ workshops | If you care about resourcefulness |
+| **Lessons Learned** | **My biggest failures + the systems I built to never repeat them** | If you want to see what I learnt from this project |
+| **Management Tools** | Task allocation matrix, risk heatmap, meeting minutes template | If you want to see how I lead |
+| **Sponsorship & Brandin** | How I raised 109,000+ HKD, designed team jacket, ran 30+ workshops | If you care about resourcefulness |
 
 ---
 
