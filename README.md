@@ -47,8 +47,8 @@ This is the most painful yet valuable lesson for me in this project, but it will
 
 ## Connect With Me
 
-- [LinkedIn Article: What I Learned About Credit, Conflict, and Systems]()
+- [LinkedIn Article: HKUDBF 2026](https://www.linkedin.com/posts/hku-design-build-fly-team-aiaa_aiaadbf-aiaa-hku-activity-7452545343100977152-H6Hg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD23tT4BoWV4G3h-5IYy6HmGhoF5z375C-I)
 - Email: [leilazhao853@gmail.com]
-- I'm currently applying for M.Sc. in Space Engineering at TU Berlin
+- I'm currently applying for M.Sc. in Space Engineering 2027 intake
 
 *“Not how to avoid failure, but how to embrace them and turn them into your fuel.”*
